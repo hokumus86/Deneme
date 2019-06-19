@@ -18,6 +18,7 @@ public class Runner {
 		System.out.println(b);
 		System.out.println(c);
 		scan.close();
+		System.out.println();
 		
 	}
 
